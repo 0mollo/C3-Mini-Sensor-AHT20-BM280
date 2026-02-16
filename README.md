@@ -72,8 +72,8 @@ This board is designed as a piggyback module for:
 
 Recommended Arduino library:
 
-- Adafruit BMP280
-- SparkFun BMP280
+- [Adafruit](https://docs.arduino.cc/libraries/adafruit-gfx-library/) BMP280
+- [SparkFun](https://www.arduinolibraries.info/authors/sparkfun) BMP280
 
 
 ## License
