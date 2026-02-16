@@ -4,7 +4,6 @@
 Barometric Pressure & Temperature Sensor  
 Part of the Carenuity Modular Hardware Ecosystem
 
----
 
 ## Overview
 
@@ -12,7 +11,6 @@ The Carenuity AHT20+BMP280 Piggyback Module is a compact I²C-based atmospheric 
 
 This module is optimized for 5V system operation and is intended to be used with host boards that provide I²C pull-up resistors.
 
----
 
 ## Features
 
@@ -23,14 +21,12 @@ This module is optimized for 5V system operation and is intended to be used with
 - Designed for Carenuity modular ecosystem
 - Mounting holes for mechanical stability
 
----
 
 ## Board Dimensions
 
 - Width: 25.60 mm
 - Height: 28.30 mm
 
----
 
 ## Electrical Characteristics
 
@@ -42,7 +38,6 @@ This module is optimized for 5V system operation and is intended to be used with
 | Measured Parameters | Pressure, Temperature |
 
 
----
 
 ## Pinout
 
@@ -53,7 +48,6 @@ This module is optimized for 5V system operation and is intended to be used with
 | SDA | I²C Data |
 | SCL | I²C Clock |
 
----
 
 ## Intended Use
 
@@ -64,7 +58,6 @@ This board is designed as a piggyback module for:
 - Arduino-compatible systems
 - Custom Carenuity PCBs
 
----
 
 ## Example Applications
 
@@ -74,7 +67,6 @@ This board is designed as a piggyback module for:
 - Indoor pressure logging
 - IoT atmospheric sensing
 
----
 
 ## Firmware Library
 
@@ -83,7 +75,6 @@ Recommended Arduino library:
 - Adafruit BMP280
 - SparkFun BMP280
 
----
 
 ## License
 
