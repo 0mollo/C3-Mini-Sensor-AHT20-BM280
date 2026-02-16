@@ -76,7 +76,7 @@ Recommended Arduino library:
 - [SparkFun](https://www.arduinolibraries.info/authors/sparkfun) BMP280
 
 ## Example Code
-[See]()
+[See](https://github.com/0mollo/C3-Mini-Sensor-AHT20-BM280/blob/main/Example%20arduino%20code.docx)
 ## License
 
 MIT License
