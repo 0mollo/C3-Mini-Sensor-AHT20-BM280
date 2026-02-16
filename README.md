@@ -1,5 +1,5 @@
 # C3-Mini-Sensor-AHT20+BMP280
-![image alt]() | ![image alt]
+![image alt](https://github.com/0mollo/C3-Mini-Sensor-AHT20-BM280/blob/main/PiggyBack%20front%20view.png) | ![image alt]()
 
 Barometric Pressure & Temperature Sensor  
 Part of the Carenuity Modular Hardware Ecosystem
