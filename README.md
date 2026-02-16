@@ -7,7 +7,7 @@ Part of the Carenuity Modular Hardware Ecosystem
 
 ## Overview
 
-The Carenuity AHT20+BMP280 Piggyback Module is a compact I²C-based atmospheric pressure and temperature sensing board designed for seamless integration with Carenuity controller platforms.
+The Carenuity AHT20+BMP280 Piggyback Module is a compact I²C-based atmospheric pressure, humidity and temperature sensing board designed for seamless integration with Carenuity controller platforms.
 
 This module is optimized for 5V system operation and is intended to be used with host boards that provide I²C pull-up resistors.
 
@@ -34,8 +34,7 @@ This module is optimized for 5V system operation and is intended to be used with
 |------------|--------|
 | Operating Voltage | 5V |
 | Interface | I²C |
-| Pull-up Resistors | Not included |
-| Measured Parameters | Pressure, Temperature |
+| Measured Parameters | Pressure, Temperature, Humidity |
 
 
 
