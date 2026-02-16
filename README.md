@@ -47,7 +47,9 @@ This module is optimized for 5V system operation and is intended to be used with
 | SDA | I²C Data |
 | SCL | I²C Clock |
 
+## Schematics
 
+[See](https://github.com/0mollo/C3-Mini-Sensor-AHT20-BM280/blob/main/BMP%20280%20Piggy%20Back.pdf)
 ## Intended Use
 
 This board is designed as a piggyback module for:
